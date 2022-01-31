@@ -82,3 +82,10 @@ $RECYCLE.BIN/
 output_log.txt
 
 .vscode
+
+## User settings
+xcuserdata/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
